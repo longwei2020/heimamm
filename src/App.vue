@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="app">
     <!-- 路由出口 -->
-    <router-link to="hhh">hhhh</router-link>
+    <router-view></router-view>
   </div>
 </template>
 
